@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
     "jest": "^29.2.2"
   },
   "scripts": {
